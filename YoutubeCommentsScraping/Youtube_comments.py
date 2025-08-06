@@ -101,7 +101,7 @@ def main():
     # Set up the YouTube API client
     api_service_name = "youtube"
     api_version = "v3"
-    youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey='AIzaSyCux5DyyE8LiVTJ1h4hG3rIf0iuEzaM1a4')
+    youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey='')
 
     # Donald Trump's channel ID
     CHANNEL_ID = 'UC0XBsJpPhOLg0k4x9ZwrWzw'  # Replace with actual channel ID
