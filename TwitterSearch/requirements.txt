@@ -1,0 +1,4 @@
+aiohttp
+hjson
+jsonpath-ng
+requests
